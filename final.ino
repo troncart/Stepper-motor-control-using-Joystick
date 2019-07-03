@@ -1,3 +1,9 @@
+/*********TACHLOG powered********
+*********www.troncart.com*******
+**electronics components online**
+***********Joystick controlled car**************
+*************************
+*/
 int xVal; //X values from joystick1
 int yVal; //Y values from joystick1
 int xVal2; //X values from joystick2
